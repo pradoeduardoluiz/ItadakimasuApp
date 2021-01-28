@@ -1,0 +1,26 @@
+object Versions {
+
+  const val kotlin = "1.4.20"
+  const val gradle = "4.1.2"
+  const val koin = "2.2.0-rc-2"
+  const val coroutines = "1.3.7"
+  const val lifecycleExt = "2.2.0"
+  const val viewModel = "2.2.0"
+  const val common = "2.2.0"
+  const val liveData = "2.2.0"
+  const val runTime = "2.2.0"
+  const val navigation = "2.3.0"
+  const val material = "1.2.1"
+  const val legacy = "1.0.0"
+  const val appcompat = "1.1.0"
+  const val coreKtx = "1.3.2"
+  const val constraint = "1.1.3"
+  const val moshi = "1.9.3"
+  const val moshiAdapter = "1.9.3"
+  const val retrofit = "2.9.0"
+  const val loggingInterceptor = "4.7.2"
+  const val coil = "0.11.0"
+  const val lottie = "3.4.2"
+  const val room = "2.2.5"
+
+}
